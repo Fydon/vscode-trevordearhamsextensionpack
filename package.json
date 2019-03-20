@@ -3,7 +3,10 @@
     "displayName": "Trevor Dearham's Extension Pack",
     "description": "Collection of useful extensions for VS Code",
     "publisher": "trevor-dearham",
-    "version": "0.0.1",
+    "repository": {
+        "url": "https://github.com/Fydon/vscode-trevordearhamsextensionpack"
+    },
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.32.0"
     },
@@ -43,7 +46,6 @@
         "ms-vscode.csharp",
         "ms-vscode.Go",
         "ms-vscode.PowerShell",
-        "ms-vscode.vs-keybindings",
         "ms-vscode.vscode-typescript-tslint-plugin",
         "ms-vsliveshare.vsliveshare",
         "oderwat.indent-rainbow",
